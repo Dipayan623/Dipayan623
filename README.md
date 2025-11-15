@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Dipayan623
 - 👀 I’m interested in AI greatly
-- 🌱 I’m currently learning in class IX in DAV Model School Durgapur WB.
-- 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me 
-
-call me on 9242187606
+- 🌱 I’m currently pursuing B.Tech in Computer Science Engineering from Indian Institute of Information Technology, Ranchi
+- 📫 How to reach me- call me on 9242187606, dipayan.2025ug1002@iiitranchi.ac.in
 
 <!---
 Dipayan623/Dipayan623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
