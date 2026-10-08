@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dipayan623
-- 👀 I’m interested in AI greatly
 - 🌱 I’m currently pursuing B.Tech in Computer Science Engineering from Indian Institute of Information Technology, Ranchi
 - 📫 How to reach me- call me on 9242187606, dipayan.2025ug1002@iiitranchi.ac.in
 
